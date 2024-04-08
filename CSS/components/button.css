@@ -1,0 +1,12 @@
+.btn-blue {
+background-color: # #FFFDD0;
+padding: 12px 17px;
+border-radius: 5px;
+font-weight: bold;
+font-family:'&#39;Baloo 2&#39;, sans-serif'
+font-size: size (ex: 20)px;
+color: ##FF0000;
+}
+.btn-blue:hover {
+background-color: ##FFFDD0 of the button when the cursor passes over it;
+color: ##FF0000 when the cursor passes; 

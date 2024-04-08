@@ -1,0 +1,38 @@
+
+@import
+url(&#39;https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;700&amp;display=swap&#39;);
+@import url(&#39;https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;display=swap&#39;);
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/cards.css");
+body {
+font-family: &#39;Baloo 2&#39;, sans-serif;
+font-size: 20px;
+margin: 0;
+padding: 0;
+background-image: linear-gradient(to right, #FFA07A, #FFFFFF, #FF6347);
+color: #333;
+background-attachment: fixed;
+}
+h1, h2, h3 {
+font-family: &#39;Bebas Neue&#39;, sans-serif;
+font-weight: 400;
+color: #FC5A8D;
+}
+h1 {
+font-size: 80px;
+}
+h2 {
+font-size: 50px;
+}
+h3 {
+font-size: 35px;
+}
+a {
+text-decoration: none;
+color: #FF4500;
+font-weight: 700;
+}
